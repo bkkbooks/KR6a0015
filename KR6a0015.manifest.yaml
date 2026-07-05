@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0015_000.yaml, hash: 'sha256:c6a576d51c802f93c37a112335e90072b955c380ec7e1fbcecbc492bbe39a652'}
-  - {seq: 1, filename: KR6a0015_001.yaml, hash: 'sha256:b1acf859739b0de4a826f7e5488cfeca204478617cdb310be96301cbc9e14511'}
+  - {seq: 1, filename: KR6a0015_001.yaml, hash: 'sha256:bfc92c5a2f593f0f3d7402e207135614eb2fcb652c1cc769b8c96925a1592cd8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0015_001.markers.yaml, hash: 'sha256:63d6c263cac76ebac265e0d14457e5bf00a3bb9c4368f27243b97800f6214124'}
+  - {seq: 0, role: markers, filename: assets/KR6a0015_000.markers.yaml, hash: 'sha256:62bed0e3915d206ad356f6d79d332c6c7eb2244343b4b045a3aa40218ead398a'}
+  - {seq: 1, role: markers, filename: assets/KR6a0015_001.markers.yaml, hash: 'sha256:6a979502657deda148e7ac6108c555bfd9445b3fd8a3197ae644a1cf411dc20e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說帝釋所問經
   type: juan
   level: 1
-hash: sha256:edb4a2353de25b522650387e57782fbf98840e3363a2a41fef97defaa82268b9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:52ff87579d43373541e65d38762ef4faa7a5af5a0c6736d7d9edc644285e350d
